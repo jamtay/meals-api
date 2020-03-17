@@ -1,4 +1,4 @@
-Project to be paired with https://github.com/jamtay/food-item
+Project to be paired with https://github.com/jamtay/food-item-api-golang
 
 
 run `go build && ./meals-api` from meals-api directory
