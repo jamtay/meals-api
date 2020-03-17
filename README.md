@@ -1,3 +1,6 @@
+Project to be paired with https://github.com/jamtay/food-item
+
+
 run `go build && ./meals-api` from meals-api directory
 
 
